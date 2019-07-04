@@ -5,3 +5,5 @@ This is an app designed to store contacts. The app allows the user to add, edit,
 
 ### Tools used
 Node, Express, MySQL, Sequelize, and Handlebars
+
+### Use
